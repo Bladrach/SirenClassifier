@@ -1,1 +1,4 @@
 https://www.kaggle.com/vishnu0399/emergency-vehicle-siren-sounds
+
+PS: mergeNoise.py was used to merge traffic noises and siren sounds. This process was applied for both ambulance
+and firetruck. Then these sounds were used for training.
